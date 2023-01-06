@@ -1,0 +1,7 @@
+{
+  "name": "Proyecto_Evaluacion_1_Marco_Montero",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
